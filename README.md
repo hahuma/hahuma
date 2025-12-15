@@ -20,9 +20,9 @@
 const petterson = {
     location: "Brazil 🇧🇷",
     role: "Backend Developer",
-    focus: ["APIs", "Real-time Systems", "Open Source"],
-    currentlyContributing: "Chatwoot",
-    funFact: "I solve Advent of Code challenges in Zig for fun"
+    focus: ["Fintech", "Reliable Systems", "Clean Architecture"],
+    passion: "Building maintainable software that scales",
+    funFact: "Neovim enthusiast who configs more than codes sometimes"
 };
 ```
 
@@ -31,7 +31,11 @@ const petterson = {
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="25" height="25" /> Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,typescript,javascript,nestjs,express,ruby,rails&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,typescript,javascript,go,rust&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nestjs,express,ruby,rails&theme=dark" />
 </p>
 
 <p align="center">
@@ -46,30 +50,18 @@ const petterson = {
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Star" width="25" height="25" /> Open Source Contributions
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Star" width="25" height="25" /> Open Source
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/chatwoot/chatwoot">
-        <img src="https://avatars.githubusercontent.com/u/56690730?s=100" width="80" alt="Chatwoot"/>
-        <br/>
-        <sub><b>Chatwoot</b></sub>
-      </a>
-      <br/>
-      <sub>20k+ ⭐</sub>
-    </td>
-    <td>
-      <b>Merged PRs:</b><br/>
-      • Platform App Accounts API endpoint<br/>
-      • WhatsApp Business coexistence support<br/>
-      • Portuguese localization<br/>
-      • UI/UX bug fixes<br/><br/>
-      <b>In Review:</b><br/>
-      • Docker Postgres volume persistence fix
-    </td>
-  </tr>
-</table>
+<p align="center">
+  Active contributor to projects with <b>20k+ stars</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/API%20Development-6366f1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend%20Features-6366f1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Bug%20Fixes-6366f1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/i18n-6366f1?style=for-the-badge" />
+</p>
 
 <br/>
 
