@@ -31,21 +31,9 @@ const petterson = {
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="25" height="25" /> Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,typescript,javascript,go,rust&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nestjs,express,ruby,rails&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,git,github,linux,neovim&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=zig,lua&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,typescript,javascript,go,rust,nestjs,express,ruby,rails&theme=dark" />
   <br/>
-  <sub>Currently exploring</sub>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,git,github,linux,neovim,zig,lua&theme=dark" />
 </p>
 
 <br/>
@@ -75,16 +63,6 @@ const petterson = {
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hahuma&bg_color=0D1117&color=6366f1&line=6366f1&point=FFFFFF&area=true&hide_border=true" />
 </p>
-
-<br/>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="25" height="25" /> Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hahuma&theme=discord&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" />
-</p>
-
-<br/>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hahuma&style=for-the-badge&color=6366f1" />
