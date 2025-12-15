@@ -20,7 +20,7 @@
 const petterson = {
     location: "Brazil 🇧🇷",
     role: "Backend Developer",
-    focus: ["Fintech", "Reliable Systems", "Clean Architecture"],
+    focus: "Solving real problems with authentic and elegant solutions",
     passion: "Building maintainable software that scales",
     funFact: "Neovim enthusiast who configs more than codes sometimes"
 };
